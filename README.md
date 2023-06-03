@@ -1,5 +1,5 @@
 <h3>Seja bem vindo ao meu perfil GitHub! 👋🏻</h3>
-<h4>Eu sou um Aprendiz de Desenvolvimento Front-End!</h4>
+<h4>Eu sou um Desenvolvedor Front-End!</h4>
 <h5>Estou aberto para desafios!</h5>
 
 ##
