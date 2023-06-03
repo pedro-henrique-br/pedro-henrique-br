@@ -1,6 +1,6 @@
 <h2>Seja bem vindo ao meu perfil do GitHub! 👋</h2>
 <h3>Eu sou um Desenvolvedor Front-End!</h3>
-<h5>Estou aberto para desafios!</h5>
+<h5>E também estou aberto para desafios!</h5>
 
 ##
 
