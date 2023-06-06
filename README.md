@@ -19,4 +19,4 @@
 
 ##
 
-![tumblr_9db33516854184f7467fd8fc7618ae2c_994d8274_540](https://github.com/pedro-henrique-br/pedro-henrique-br/assets/71238431/710d51a5-2027-47d6-aff1-08f6b55879b7)
+![GargantuanSilverIslandwhistler-max-1mb](https://github.com/pedro-henrique-br/pedro-henrique-br/assets/71238431/c55448b0-29b9-4d08-bef1-9a82c8840342)
