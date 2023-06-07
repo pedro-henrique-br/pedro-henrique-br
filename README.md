@@ -3,14 +3,21 @@
 <h5>E também estou aberto para desafios!</h5>
 
 ##
+<h2> ⚡ Tecnologias:<br>
+  
+  <br>
+  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+  
 
-![icons8-css3-48](https://user-images.githubusercontent.com/71238431/215886440-ee8691bf-0008-402e-b931-6283bbbf584a.png)
-![icons8-javascript-48](https://user-images.githubusercontent.com/71238431/215885991-c501f67f-c8dd-41c2-84df-21dba1f575af.png)
-![icons8-html-5-48](https://user-images.githubusercontent.com/71238431/215886449-7e55fb38-3e2c-4404-bee4-74cc8be73e03.png)
-## 
-
-<a href="https://www.linkedin.com/in/pedro-henrique-8076aa23a/"> ![icons8-linkedin---in-logo-used-for-professional-networking,-24](https://user-images.githubusercontent.com/71238431/215887755-78ea459a-333b-4a95-8437-6c9b43088479.png)</a>
-
+  <br> 
+  <h2> 🌐 Redes Sociais:</h2>
+  
+  <a href="https://www.linkedin.com/in/pedro-henrique-8076aa23a/">![icons8-linkedin---in-logo-used-for-professional-networking,-24](https://user-images.githubusercontent.com/71238431/215887755-78ea459a-333b-4a95-8437-6c9b43088479.png) </a>
+  
+<!--   
+<a href="mailto:phbr10.12@gmail.com?subject=&body=">![icons8-gmail-logo-48](https://github.com/pedro-henrique-br/pedro-henrique-br/assets/71238431/1dee1db8-a0d4-4f6e-9ad9-45b04002b8dd)
+</a> -->
 
 ##
 
