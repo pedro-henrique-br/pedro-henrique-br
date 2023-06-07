@@ -11,7 +11,10 @@
   
 
   <br> 
-  <h2> 🌐 Redes Sociais:</h2>
+  <h2> 🌐 Redes Sociais:<br>
+    
+  <br>
+  
   
   <a href="https://www.linkedin.com/in/pedro-henrique-8076aa23a/">![icons8-linkedin---in-logo-used-for-professional-networking,-24](https://user-images.githubusercontent.com/71238431/215887755-78ea459a-333b-4a95-8437-6c9b43088479.png) </a>
   
@@ -19,7 +22,7 @@
 <a href="mailto:phbr10.12@gmail.com?subject=&body=">![icons8-gmail-logo-48](https://github.com/pedro-henrique-br/pedro-henrique-br/assets/71238431/1dee1db8-a0d4-4f6e-9ad9-45b04002b8dd)
 </a> -->
 
-##
+
 
 
 <h3><i>A true warrior doesn't need a sword</i></h3>
