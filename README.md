@@ -16,7 +16,8 @@
   <br>
   
   
-  <a href="https://www.linkedin.com/in/pedro-henrique-8076aa23a/">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-8076aa23a/">![icons8-linkedin---in-logo-used-for-professional-networking,-48](https://github.com/pedro-henrique-br/pedro-henrique-br/assets/71238431/c5fb85c3-b6af-4ee1-b299-4ff4b5b0ccac)
+</a>
   
 <!--   
 <a href="mailto:phbr10.12@gmail.com?subject=&body=">![icons8-gmail-logo-48](https://github.com/pedro-henrique-br/pedro-henrique-br/assets/71238431/1dee1db8-a0d4-4f6e-9ad9-45b04002b8dd)
