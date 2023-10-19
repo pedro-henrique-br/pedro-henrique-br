@@ -6,9 +6,9 @@
 <h2> ⚡ Tecnologias:<br>
   
   <br>
-  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-  
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript)](https://skillicons.dev)
+
 
   <br> 
   <h2> 🌐 Redes Sociais:<br>
@@ -16,7 +16,7 @@
   <br>
   
   
-  <a href="https://www.linkedin.com/in/pedro-henrique-8076aa23a/">![icons8-linkedin---in-logo-used-for-professional-networking,-24](https://user-images.githubusercontent.com/71238431/215887755-78ea459a-333b-4a95-8437-6c9b43088479.png) </a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-8076aa23a/">[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)</a>
   
 <!--   
 <a href="mailto:phbr10.12@gmail.com?subject=&body=">![icons8-gmail-logo-48](https://github.com/pedro-henrique-br/pedro-henrique-br/assets/71238431/1dee1db8-a0d4-4f6e-9ad9-45b04002b8dd)
