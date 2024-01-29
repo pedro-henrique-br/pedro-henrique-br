@@ -3,7 +3,7 @@
 
 ##
 
-<h4>Hello, I'm Pedro Henrique, a passionate front-end development enthusiast and a dedicated student of Systems Analysis and Development,<br>
+<h4>Hello, I'm Pedro Henrique, a passionate front-end development enthusiast and a dedicated student of Systems Analysis and Development,
   I'm always exploring new technologies and frameworks to improve my skills and stay up to date with industry trends.</h4>
 
 ##
