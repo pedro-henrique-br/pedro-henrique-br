@@ -5,8 +5,11 @@
 
 <h4>Hello, I'm Pedro Henrique, a passionate front-end development enthusiast and a dedicated student of Systems Analysis and Development,
   I'm always exploring new technologies and frameworks to improve my skills and stay up to date with industry trends.</h4>
+  
 ##
+
  <h3>I’m currently looking for an opportunity to work as a Front-end developer.</h3>
+ 
 ##
 
 <h2> ⚡ Tools i use<br>
