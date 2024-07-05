@@ -16,11 +16,11 @@
 ##
 
 
-<h2> ⚡ Tools i use<br>
+<h2> ⚡ My tech stack<br>
   
   <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,git,mysql)](https://skillicons.dev)
 
 
   <br> 
