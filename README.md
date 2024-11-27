@@ -1,22 +1,21 @@
-<h2>Be welcome to my gitHub! 👋</h2>
-<h3>Front-End Developer!</h3>
+<h2>Bem vindo ao meu gitHub! 👋</h2>
+<h3>Desenvolvedor Front-End!</h3>
 
 ##
 
-<h4>Hello, I'm Pedro Henrique, a passionate front-end development enthusiast and a dedicated student of Systems Analysis and Development,
-  I'm always exploring new technologies and frameworks to improve my skills and stay up to date with industry trends.</h4>
+<h4>Olá, eu me chamo Pedro Barbosa e sou um desenvolvedor front-end que ama criar aplicações que tragam soluções e estou cursando Analise e Desenvolvimento de Sistemas. Estou sempre estudando novas tecnologias e frameworks para melhorar minhas habilidades como desenvolvedor.</h4>
   
 ##
 
  <h3><a href="https://portfolio-pedrohenrique.vercel.app/">Portfolio</a></h3>
- <h3>I’m currently looking for an opportunity to work as a Front-end developer.</h3>
+ <h3>Estou em busca de novas oportunidades que me proponham desenvolvimento e aprendizado.</h3>
 
 
  
 ##
 
 
-<h2> ⚡ My tech stack<br>
+<h2> ⚡ Stack<br>
   
   <br>
 
