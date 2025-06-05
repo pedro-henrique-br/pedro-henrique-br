@@ -1,9 +1,9 @@
 <h2>Bem vindo ao meu gitHub! 👋</h2>
-<h3>Desenvolvedor Front-End!</h3>
+<h3>Desenvolvedor FullStack!</h3>
 
 ##
 
-<h4>Olá, eu me chamo Pedro Barbosa e sou um desenvolvedor front-end que ama criar aplicações que tragam soluções e estou cursando Analise e Desenvolvimento de Sistemas. Estou sempre estudando novas tecnologias e frameworks para melhorar minhas habilidades como desenvolvedor.</h4>
+<h4>Olá, eu me chamo Pedro Barbosa e sou um desenvolvedor FullStack que ama criar aplicações que tragam soluções e estou cursando Analise e Desenvolvimento de Sistemas. Estou sempre estudando novas tecnologias e frameworks para melhorar minhas habilidades como desenvolvedor.</h4>
   
 ##
 
@@ -19,7 +19,7 @@
   
   <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,git,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,git,bootstrap,laravel,mysql,supabase,vue)](https://skillicons.dev)
 
 
   <br> 
