@@ -1,35 +1,64 @@
-<h2>Bem vindo ao meu gitHub! 👋</h2>
-<h3>Desenvolvedor FullStack!</h3>
+<h1 align="center">Pedro Barbosa</h1>
 
-##
+<p align="center">
+Analista de Suporte | Infraestrutura | SOC / Blue Team
+</p>
 
-<h4>Olá, eu me chamo Pedro Barbosa e sou um desenvolvedor FullStack que ama criar aplicações que tragam soluções e estou cursando Analise e Desenvolvimento de Sistemas. Estou sempre estudando novas tecnologias e frameworks para melhorar minhas habilidades como desenvolvedor.</h4>
-  
-##
+---
 
- <h3><a href="https://portfolio-pedrohenrique.vercel.app/">Portfolio</a></h3>
- <h3>Estou em busca de novas oportunidades que me proponham desenvolvimento e aprendizado.</h3>
+## Sobre mim
 
+Olá! Sou um profissional de TI focado em **infraestrutura, observabilidade e segurança da informação**.
 
- 
-##
+Tenho experiência com:
 
+* Administração de **Active Directory**
+* **Windows Server e Linux**
+* Monitoramento com **Zabbix e Grafana**
+* Análise de eventos com **Wazuh (SIEM)**
+* Troubleshooting de **rede, VPN e serviços**
+* Suporte **N2**
 
-<h2> ⚡ Stack<br>
-  
-  <br>
+Atualmente estudo e desenvolvo projetos voltados para:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,git,bootstrap,laravel,mysql,supabase)](https://skillicons.dev)
+* **Cybersecurity**
+* **Blue Team**
+* **Automação para infraestrutura**
 
+---
 
-  <br> 
-  <h2> 🌐 Social:<br>
+## Áreas de Interesse
 
-  <br>
-    
-  <a href="https://www.linkedin.com/in/pedro-henrique-8076aa23a/">![icons8-linkedin---in-logo-used-for-professional-networking,-48](https://github.com/pedro-henrique-br/pedro-henrique-br/assets/71238431/c5fb85c3-b6af-4ee1-b299-4ff4b5b0ccac)
-</a>
-<a href="mailto:phbr10.12@gmail.com?subject=&body=">![icons8-gmail-logo-48](https://github.com/pedro-henrique-br/pedro-henrique-br/assets/71238431/1dee1db8-a0d4-4f6e-9ad9-45b04002b8dd)
-</a> 
-<a href="https://discord.com/channels/@me/411249164480151562">![icons8-logo-discord-48](https://github.com/pedro-henrique-br/pedro-henrique-br/assets/71238431/075a5048-ed96-4985-bf56-28611ec749ac)
-</a> 
+* SOC / Blue Team
+* Analista de infraestrutura
+
+---
+
+## Tecnologias & Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,powershell,python,js,ts,php,laravel,mysql,postgres,git,docker,kali,windows,react,laravel,aws,node)](https://skillicons.dev)
+
+### Infraestrutura & Segurança
+
+* Active Directory
+* Windows Server
+* Linux
+* Zabbix
+* Grafana
+* Wazuh (SIEM)
+* VPN (IPSec / OpenVPN)
+* Wireshark
+* Firewalls (OPNsense / pfSense / Fortinet)
+
+---
+
+## Links
+
+Portfolio:
+https://portfolio-pedrohenrique.vercel.app
+
+LinkedIn:
+https://www.linkedin.com/in/pedro-barbosa-dev/
+
+Email:
+pedro.barbosac85@gmail.com
